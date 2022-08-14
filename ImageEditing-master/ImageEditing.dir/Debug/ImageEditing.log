@@ -1,0 +1,79 @@
+﻿  TargaImage.cpp
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(227,34): warning C4244: '正在初始化': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(274,16): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(402,15): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(477,74): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(493,80): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(508,76): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(523,80): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(561,74): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(576,80): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(591,76): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(606,80): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(672,16): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(747,44): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(748,49): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(749,49): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(763,77): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(775,81): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(787,81): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(802,83): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(814,87): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(826,87): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(841,79): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(853,83): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(865,83): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(880,83): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(892,87): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(904,87): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(927,45): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(928,49): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(929,49): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(943,77): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(955,81): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(967,81): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(982,83): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(994,87): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1006,87): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1024,79): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1036,83): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1048,83): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1066,83): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1078,86): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1090,87): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1273,46): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1274,48): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1275,48): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1334,41): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1335,45): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1336,45): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1402,41): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1403,45): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1404,45): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1421,23): warning C4018: '<=': signed/unsigned 不相符
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1436,23): warning C4018: '<': signed/unsigned 不相符
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1442,23): warning C4018: '<': signed/unsigned 不相符
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1444,27): warning C4018: '<': signed/unsigned 不相符
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1485,41): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1486,45): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1487,45): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1584,41): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1585,45): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1586,45): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1683,41): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1684,45): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1685,45): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1776,46): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1777,50): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+D:\ImageEditing-master\ImageEditing-master\src\TargaImage.cpp(1778,50): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+fltkd.lib(Fl.obj) : warning LNK4099: 找不到 PDB 'fltk.pdb' (有 'fltkd.lib(Fl.obj)' 或位於 'D:\ImageEditing-master\ImageEditing-master\Debug\fltk.pdb')，當做沒有偵錯資訊，連結物件
+fltkd.lib(Fl_Group.obj) : warning LNK4099: 找不到 PDB 'fltk.pdb' (有 'fltkd.lib(Fl_Group.obj)' 或位於 'D:\ImageEditing-master\ImageEditing-master\Debug\fltk.pdb')，當做沒有偵錯資訊，連結物件
+fltkd.lib(Fl_Input_.obj) : warning LNK4099: 找不到 PDB 'fltk.pdb' (有 'fltkd.lib(Fl_Input_.obj)' 或位於 'D:\ImageEditing-master\ImageEditing-master\Debug\fltk.pdb')，當做沒有偵錯資訊，連結物件
+fltkd.lib(Fl_Repeat_Button.obj) : warning LNK4099: 找不到 PDB 'fltk.pdb' (有 'fltkd.lib(Fl_Repeat_Button.obj)' 或位於 'D:\ImageEditing-master\ImageEditing-master\Debug\fltk.pdb')，當做沒有偵錯資訊，連結物件
+fltkd.lib(Fl_get_system_colors.obj) : warning LNK4099: 找不到 PDB 'fltk.pdb' (有 'fltkd.lib(Fl_get_system_colors.obj)' 或位於 'D:\ImageEditing-master\ImageEditing-master\Debug\fltk.pdb')，當做沒有偵錯資訊，連結物件
+fltkd.lib(fl_arc.obj) : warning LNK4099: 找不到 PDB 'fltk.pdb' (有 'fltkd.lib(fl_arc.obj)' 或位於 'D:\ImageEditing-master\ImageEditing-master\Debug\fltk.pdb')，當做沒有偵錯資訊，連結物件
+fltkd.lib(fl_curve.obj) : warning LNK4099: 找不到 PDB 'fltk.pdb' (有 'fltkd.lib(fl_curve.obj)' 或位於 'D:\ImageEditing-master\ImageEditing-master\Debug\fltk.pdb')，當做沒有偵錯資訊，連結物件
+fltkd.lib(fl_draw.obj) : warning LNK4099: 找不到 PDB 'fltk.pdb' (有 'fltkd.lib(fl_draw.obj)' 或位於 'D:\ImageEditing-master\ImageEditing-master\Debug\fltk.pdb')，當做沒有偵錯資訊，連結物件
+fltkd.lib(fl_symbols.obj) : warning LNK4099: 找不到 PDB 'fltk.pdb' (有 'fltkd.lib(fl_symbols.obj)' 或位於 'D:\ImageEditing-master\ImageEditing-master\Debug\fltk.pdb')，當做沒有偵錯資訊，連結物件
+fltkd.lib(fl_vertex.obj) : warning LNK4099: 找不到 PDB 'fltk.pdb' (有 'fltkd.lib(fl_vertex.obj)' 或位於 'D:\ImageEditing-master\ImageEditing-master\Debug\fltk.pdb')，當做沒有偵錯資訊，連結物件
+  ImageEditing.vcxproj -> D:\ImageEditing-master\ImageEditing-master\Debug\ImageEditing.exe

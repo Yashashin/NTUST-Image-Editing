@@ -1,0 +1,4 @@
+D:/ImageEditing-master/ImageEditing-master/CMakeFiles/ImageEditing.dir
+D:/ImageEditing-master/ImageEditing-master/CMakeFiles/libtarga.dir
+D:/ImageEditing-master/ImageEditing-master/CMakeFiles/ALL_BUILD.dir
+D:/ImageEditing-master/ImageEditing-master/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+^D:\IMAGEEDITING-MASTER\IMAGEEDITING-MASTER\CMAKEFILES\FCD12CE72E886B0798123C704BCD4CA8\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/ImageEditing-master/ImageEditing-master -BD:/ImageEditing-master/ImageEditing-master --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/ImageEditing-master/ImageEditing-master/ImageEditing.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
