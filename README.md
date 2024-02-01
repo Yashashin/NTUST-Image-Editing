@@ -15,3 +15,5 @@ In this project, I implemented some features such as  **Transform Quantization, 
 - **Filtering**: Apply different filters to work with each frequencies
   - Gaussian Filter: Remove high frequency
   - Edge Filter: Remove frequencies except edge of object.
+ 
+_IDE: Visual Studio 2019_
